@@ -12,7 +12,7 @@ Sometimes I also make [Minecraft datapacks](https://www.planetminecraft.com/memb
 
 ### 📫 How to reach me
 
-* [Website: indeliblebluepen.com](https://indeliblebluepen.com)
+* [Website: codemouse92.com](https://codemouse92.com)
 * [DEV: codemouse92](https://dev.to/codemouse92)
 * [Twitter: @codemouse92](https://twitter.com/codemouse92)
 * [LinkedIn: Jason C. McDonald](https://linkedin.com/in/codemouse92)
