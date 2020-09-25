@@ -2,9 +2,13 @@
 
 Lover of Python, C++, and Linux. Accidental expert in debugging and memory management. Mentor and project manager. Creator of [*Commenting Showing Intent*](https://standards.mousepawmedia.com/csi.html) and [*Quantified Task Management*](https://standards.mousepawmedia.com/qtm.html) standards. Reluctant IT.
 
-Author of *Dead Simple Python* (coming early 2021 from No Starch Press) and [mystery novels](https://ajcharlesonpublishing.com/books/noah-clue-pi). Communication nerd.
+Author of *Dead Simple Python* (No Starch Press, 2021) and [mystery novels](https://ajcharlesonpublishing.com/books/noah-clue-pi). Communication nerd.
 
-Member of EuroPython Society, Open Source Initiative, Python Software Foundation. Community moderator at DEV.
+Member of EuroPython Society Board of Directors
+
+Member of Open Source Initiative, Python Software Foundation
+
+Community moderator at DEV.
 
 Sometimes I also make [Minecraft datapacks](https://www.planetminecraft.com/member/codemouse92/).
 
