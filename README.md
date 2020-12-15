@@ -4,8 +4,6 @@ Lover of Python, C++, and Linux. Accidental expert in debugging and memory manag
 
 Author of *Dead Simple Python* (No Starch Press, 2021) and [mystery novels](https://ajcharlesonpublishing.com/books/noah-clue-pi). Communication nerd.
 
-Member of EuroPython Society Board of Directors
-
 Member of Open Source Initiative, Python Software Foundation
 
 Community moderator at DEV.
