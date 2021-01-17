@@ -4,9 +4,11 @@ Lover of Python, C++, and Linux. Accidental expert in debugging and memory manag
 
 Author of *Dead Simple Python* (No Starch Press, 2021) and [mystery novels](https://ajcharlesonpublishing.com/books/noah-clue-pi). Communication nerd.
 
-Member of Open Source Initiative, Python Software Foundation.
+Volunteer Community Manager of [Mailspring](https://community.getmailspring.com).
 
 Community moderator at [DEV](https://dev.to).
+
+Member of Open Source Initiative, Python Software Foundation.
 
 Sometimes I also make [Minecraft datapacks](https://www.planetminecraft.com/member/codemouse92/).
 
