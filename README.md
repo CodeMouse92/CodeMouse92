@@ -8,7 +8,7 @@ Author of [*Dead Simple Python*](https://nostarch.com/dead-simple-python) (No St
 
 Community moderator at [DEV](https://dev.to).
 
-Member of Open Source Initiative, Python Software Foundation.
+Member of Ubuntu, Python Software Foundation, Open Source Initiative.
 
 Sometimes I also make [Minecraft datapacks](https://www.planetminecraft.com/member/codemouse92/).
 
