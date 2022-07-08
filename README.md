@@ -20,11 +20,11 @@ Sometimes I also make [Minecraft datapacks](https://www.planetminecraft.com/memb
 * C++
 * C
 * C#
+* Ruby
 * Java
 * Javascript
 * CSS
 * HTML5
-* Ruby
 
 See full [skill list](https://gist.github.com/CodeMouse92/f7bbdabbafe77f926dd263cb92e1c485).
 
