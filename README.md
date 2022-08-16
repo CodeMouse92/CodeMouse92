@@ -1,6 +1,6 @@
 ### 📚 Author | 🎤 Speaker | 💻 Hacker | ⌚ Time Lord
 
-Lead Code Whisperer at [Corgibytes](https://corgibytes.com). Lead Software Engineer at [MousePaw Media](https://mousepawmedia.com).
+Principal Consultant (Python Engineer) at [Rural Sourcing](https://ruralsourcing.com). Lead Software Engineer at [MousePaw Media](https://mousepawmedia.com). Former Senior Software Engineer at [Canonical](https://canonical.com).
 
 Lover of Python, C++, and Linux. Accidental expert in debugging and memory management. Mentor and project manager. Creator of [*Commenting Showing Intent*](https://standards.mousepawmedia.com/csi.html) and [*Quantified Task Management*](https://standards.mousepawmedia.com/qtm.html) standards. Reluctant IT.
 
