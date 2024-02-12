@@ -2,7 +2,7 @@
 
 **Seeking management or business analyst role.**
 
-Lead Software Engineer at [MousePaw Media](https://mousepawmedia.com). Former Principal Software Engineer at [Sparq](https://teamsparq.com). Former Senior Software Engineer at [Canonical](https://canonical.com).
+Director of Community Development at [OWASP Foundation](https://owasp.org). Lead Software Engineer at [MousePaw Media](https://mousepawmedia.com). Former Principal Software Engineer at [Sparq](https://teamsparq.com). Former Senior Software Engineer at [Canonical](https://canonical.com).
 
 Lover of Python, C++, and Linux. Accidental expert in debugging and memory management. Mentor, business analyst, and project manager. Creator of [*Quantified Tasks*](https://quantifiedtasks.org/) standards. Reluctant IT.
 
