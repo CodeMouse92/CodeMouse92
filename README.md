@@ -1,12 +1,8 @@
-### 📚 Author | 🎤 Speaker | 💻 Hacker | ⌚ Time Lord
-
-**Seeking management or business analyst role.**
-
-Director of Community Development at [OWASP Foundation](https://owasp.org). Director of Software Engineering at [MousePaw Media](https://mousepawmedia.com). Former Principal Software Engineer at [Sparq](https://teamsparq.com). Former Senior Software Engineer at [Canonical](https://canonical.com).
-
-Lover of Python, C++, and Linux. Accidental expert in debugging and memory management. Mentor, business analyst, and project manager. Creator of [*Quantified Tasks*](https://quantifiedtasks.org/) standards. Reluctant IT.
+### 📚 Author | 🎤 Speaker | ⌚ Time Lord
 
 Author of [*Dead Simple Python*](https://nostarch.com/dead-simple-python) (No Starch Press, 2022) and [mystery novels](https://ajcharlesonpublishing.com/books/noah-clue-pi). Communication nerd.
+
+Former Principal Software Engineer. Geek in Python, C++, and Linux. Accidental expert in debugging and memory management. Mentor, business analyst, and project manager. Creator of [*Quantified Tasks*](https://quantifiedtasks.org/) standards. Reluctant IT.
 
 Community moderator at [DEV](https://dev.to).
 
